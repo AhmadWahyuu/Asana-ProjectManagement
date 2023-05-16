@@ -2,6 +2,7 @@
 
 - [Definisi Asana](https://github.com/AhmadWahyuu/Asana-ProjectManagement#asana)
 - [Memulai Asana](https://github.com/AhmadWahyuu/Asana-ProjectManagement#memulai-asana)
+- [Fitur-Fitur di Asana](https://github.com/AhmadWahyuu/Asana-ProjectManagement#fitur-fitur-asana)
 
 # Asana
 
