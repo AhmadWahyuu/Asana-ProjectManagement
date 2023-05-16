@@ -5,16 +5,20 @@
 - [Fitur-Fitur di Asana](https://github.com/AhmadWahyuu/Asana-ProjectManagement#fitur-fitur-asana)
 
 # Asana
+[Kembali ke Panduan>>](https://github.com/AhmadWahyuu/Asana-ProjectManagement#panduan-asana)
 
 > Asana adalah Sebuah website yang bisa mengatur semua pekerjaan, mulai hal kecil hingga gambaran umum, sehingga tim mengetahui apa yang harus dilakukan, mengapa itu penting, dan bagaimana menyelesaikannya.
 
 # Memulai Asana
+[Kembali ke Panduan>>](https://github.com/AhmadWahyuu/Asana-ProjectManagement#panduan-asana)
 
 Kunjungi Website Asana untuk lebih jelas, disini : [Web Pages Asana](https://asana.com/id) atau jika ingin langsung membuat akun baru, disini [Create Akun Asana](https://asana.com/id/create_account)
 
 Untuk Panduan lengkap membuat project asana dari awal ada di [Panduan Asana](https://asana.com/id/guide/get-started/begin/quick-start)
 
 ## Mendaftar Akun Asana
+[Kembali ke Panduan>>](https://github.com/AhmadWahyuu/Asana-ProjectManagement#panduan-asana)
+
 ![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/navbar-asana.png)
 - Pertama, mulai atau daftar akun Anda di Asana dengan menggunakan email.
 seperti gambar dibawah ini
@@ -26,6 +30,7 @@ seperti gambar dibawah ini
 ![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/tampilan-awal.png)
 
 ## Fitur-Fitur Asana
+[Kembali ke Panduan>>](https://github.com/AhmadWahyuu/Asana-ProjectManagement#panduan-asana)
 
 - Mencetang atau meng-klik centang untuk menyelesaikan tugas.
 - Tambah Tugas Baru
