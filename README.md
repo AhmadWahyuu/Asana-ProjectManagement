@@ -47,4 +47,26 @@ seperti gambar dibawah ini
 
 ![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/add-project-baru.png)
 
-- 
+- Tampilan Kalender
+
+![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/kelender-view.png)
+
+- Tambah Tugas baru di Kalender
+
+![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/membuat-tugasKelender-baru.png)
+
+- Lampiran File
+
+![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/Lampiran-File.png)
+
+- Kontak Pesan
+
+![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/Kontak-Pesa.png)
+
+- Dashboard Pelaporan Tugas
+
+![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/Dashboard-pelaporan-tugas.png)
+
+- Portofolio
+
+![](https://github.com/AhmadWahyuu/Asana-ProjectManagement/blob/main/img/Portofolio.png)
